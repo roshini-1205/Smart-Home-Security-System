@@ -26,3 +26,5 @@ To create a simple home security system using Arduino Uno, LCD Display, Push But
 
 ## Author
 Roshini
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/a93e06ff-eb3c-439e-be6b-9611c817c016" />
+
